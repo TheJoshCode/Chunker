@@ -28,5 +28,6 @@
 # 3. OPEN CONSOLE TO SEE PRINT-OUTS OF EACH COMPUTED CHUNK, WILL TAKE A HOT MINUTE
 
 # <img width="448" height="312" alt="Screenshot 2025-11-24 205718" src="https://github.com/user-attachments/assets/ccc8bda5-2e30-4328-9b5c-91deb5fad2ae" />
+# <img width="976" height="503" alt="image" src="https://github.com/user-attachments/assets/36f8a6f1-b331-4640-80df-7e076192e634" />
 
 </div>
